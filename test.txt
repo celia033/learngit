@@ -1,5 +1,4 @@
 test rm
 test github repository
 test push and pull2
-test push and pull3
 test push and pull
